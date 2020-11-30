@@ -1,1 +1,1 @@
-# Machine-Learning-Capston-Project
+# Machine-Learning-Capstone-Project
